@@ -1,0 +1,7 @@
+[INFO ][20180302 15:00:45,853][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2b0026cc: startup date [Fri Mar 02 15:00:45 CST 2018]; root of context hierarchy
+[INFO ][20180302 15:00:46,063][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20180302 15:00:46,727][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20180302 15:00:47,796][WatchServer:50] start watch server ...
+[INFO ][20180302 15:00:47,796][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@1caae1f3--com.netty.demo.server.proxy.impl.MessageProxyImpl@16d82739--8112
+[INFO ][20180302 15:00:47,831][WatchServer:84] start watch server at port[8112].
+[WARN ][20180302 15:00:48,342][AbstractApplicationContext:550] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'watchServer' defined in class path resource [spring-im-config.xml]: Invocation of init method failed; nested exception is java.net.BindException: Address already in use: bind

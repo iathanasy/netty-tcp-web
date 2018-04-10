@@ -1,0 +1,10 @@
+2017-12-08 16:05:10 com.netty.demo.server.WatchServer.init(WatchServer.java:47)start watch server ...
+2017-12-08 16:05:10 com.netty.demo.server.WatchServer.init(WatchServer.java:81)start watch server at port[8112].
+2017-12-08 16:05:11 com.netty.demo.server.WatchServer.destroy(WatchServer.java:102)destroy watch server ...
+2017-12-08 16:05:11 com.netty.demo.server.WatchServer$2.operationComplete(WatchServer.java:89)Server have success bind to 8112
+2017-12-08 16:05:11 com.netty.demo.server.WatchServer.destroy(WatchServer.java:109)destroy watch server complate.
+2017-12-08 16:06:04 com.netty.demo.server.WatchServer.init(WatchServer.java:47)start watch server ...
+2017-12-08 16:06:04 com.netty.demo.server.WatchServer.init(WatchServer.java:81)start watch server at port[8112].
+2017-12-08 16:06:05 com.netty.demo.server.WatchServer$2.operationComplete(WatchServer.java:89)Server have success bind to 8112
+2017-12-08 16:06:15 com.netty.demo.server.WatchServerHandler.channelRegistered(WatchServerHandler.java:69)ImServerHandler  join from 127.0.0.1:58610 nid:c9cc24f5
+2017-12-08 16:06:24 com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:60)ImServerHandler channelRead message is not proto.

@@ -1,0 +1,20 @@
+[INFO ][20171222 09:46:48,059][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6443b89d: startup date [Fri Dec 22 09:46:48 CST 2017]; root of context hierarchy
+[INFO ][20171222 09:46:48,170][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171222 09:46:48,344][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171222 09:46:48,894][WatchServer:50] start watch server ...
+[INFO ][20171222 09:46:48,894][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@68d6490d--com.netty.demo.server.proxy.impl.MessageProxyImpl@4c562a40--8112
+[INFO ][20171222 09:46:48,921][WatchServer:84] start watch server at port[8112].
+[INFO ][20171222 09:46:49,336][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171222 09:46:49,401][WatchWebSocketServer:72] start watch websocket server ...
+[INFO ][20171222 09:46:49,401][WatchWebSocketServer:73] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@68d6490d--com.netty.demo.server.proxy.impl.MessageProxyImpl@4c562a40--8111
+[INFO ][20171222 09:46:49,425][WatchWebSocketServer:131] start watch websocketserver at port[8111].
+[INFO ][20171222 09:46:49,432][WatchWebSocketServer$2:137] websocketserver have success bind to 8111
+[INFO ][20171222 09:46:56,321][WatchWebSocketServerHandler:91] WatchWebSocketServerHandler  join from 127.0.0.1:55982 nid:510c8679
+[INFO ][20171222 09:46:56,322][WatchWebSocketServerHandler:102] WatchWebSocketServerHandler channelActive from (127.0.0.1:55982)
+[INFO ][20171222 09:47:38,619][WatchWebSocketServerHandler:108] WatchWebSocketServerHandler channelInactive from (127.0.0.1:55982)
+[INFO ][20171222 09:47:38,650][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171222 09:47:38,650][WatchConnertorImpl:158] 链接个数：0
+[INFO ][20171222 09:47:38,653][WatchWebSocketServerHandler:96] WatchWebSocketServerHandler Disconnected from {/127.0.0.1:55982--->0.0.0.0/0.0.0.0:8111}
+[INFO ][20171222 09:48:00,768][WatchServerHandler:92] WatchServerHandler  join from 127.0.0.1:55994 nid:7de49e3a
+[INFO ][20171222 09:48:04,652][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171222 09:48:04,653][WatchConnertorImpl:158] 链接个数：0

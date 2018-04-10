@@ -1,0 +1,5729 @@
+[INFO ][20171208 16:10:43,134][WatchServer:47] start watch server ...
+[INFO ][20171208 16:10:43,153][WatchServer:81] start watch server at port[8112].
+[INFO ][20171208 16:10:43,604][WatchServer$2:89] Server have success bind to 8112
+[INFO ][20171208 16:10:53,368][WatchServerHandler:69] ImServerHandler  join from 127.0.0.1:59791 nid:996b26d0
+[INFO ][20171208 16:10:55,387][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[WARN ][20171208 16:10:55,414][WatchServerHandler:60] ImServerHandler channelRead message is not proto.
+[INFO ][20171208 16:13:07,673][WatchServer:47] start watch server ...
+[INFO ][20171208 16:13:07,691][WatchServer:81] start watch server at port[8112].
+[INFO ][20171208 16:13:08,156][WatchServer$2:89] Server have success bind to 8112
+[INFO ][20171208 16:13:14,545][WatchServerHandler:69] ImServerHandler  join from 127.0.0.1:60401 nid:73d9c1ca
+[INFO ][20171208 16:13:15,952][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:13:16,082][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:35:42,817][WatchServer:47] start watch server ...
+[INFO ][20171208 16:35:42,833][WatchServer:81] start watch server at port[8112].
+[INFO ][20171208 16:35:43,272][WatchServer$2:89] Server have success bind to 8112
+[INFO ][20171208 16:35:52,779][WatchServerHandler:71] ImServerHandler  join from 127.0.0.1:49696 nid:30d2e332
+[INFO ][20171208 16:35:56,058][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:35:56,182][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:35:56,182][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:35:58,308][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:35:58,309][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:35:58,309][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:37:09,381][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:37:09,382][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:37:09,382][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:04,624][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:04,625][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:04,627][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:04,726][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:04,727][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:04,727][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:04,825][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:04,826][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:04,827][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:04,925][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:04,926][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:04,926][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,027][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,028][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,029][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,126][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,127][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,127][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,228][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,229][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,229][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,327][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,328][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,328][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,427][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,428][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,428][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,529][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,530][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,530][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,628][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,629][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,629][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,730][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,731][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,731][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,829][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,830][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,830][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:05,931][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:05,932][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:05,932][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,031][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,032][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,032][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,130][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,131][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,131][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,232][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,233][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,233][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,331][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,332][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,332][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,433][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,434][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,434][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,532][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,533][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,533][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,632][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,633][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,633][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,734][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,735][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,735][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,833][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,834][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,834][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:06,934][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:06,935][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:06,935][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,033][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,034][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,034][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,134][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,135][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,135][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,236][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,236][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,237][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,335][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,336][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,336][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,436][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,437][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,437][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,535][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,536][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,536][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,636][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,637][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,637][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,736][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,737][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,737][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,835][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,836][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,836][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:07,937][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:07,938][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:07,938][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,036][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,037][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,037][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,137][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,138][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,138][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,237][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,238][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,238][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,336][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,337][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,337][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,437][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,438][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,438][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,536][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,537][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,538][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,637][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,638][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,638][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,737][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,738][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,738][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,836][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,837][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,837][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:08,937][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:08,938][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:08,938][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,036][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,037][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,037][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,138][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,139][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,139][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,238][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,239][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,239][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,337][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,338][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,338][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,438][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,439][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,439][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,537][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,538][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,538][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,638][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,639][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,639][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,738][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,739][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,739][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,837][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,838][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,838][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:09,938][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:09,939][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:09,939][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,037][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,038][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,038][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,138][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,139][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,139][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,238][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,239][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,239][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,337][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,338][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,338][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,438][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,439][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,439][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,537][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,538][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,538][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,639][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,640][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,640][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,739][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,739][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,739][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,838][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,839][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,839][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:10,939][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:10,940][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:10,940][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,038][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,039][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,039][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,139][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,139][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,140][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,239][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,239][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,239][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,338][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,339][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,339][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,439][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,440][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,440][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:39:11,538][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:39:11,539][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:39:11,539][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:29,502][WatchServerHandler:71] ImServerHandler  join from 127.0.0.1:50837 nid:3886e5bc
+[INFO ][20171208 16:40:31,893][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:31,894][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:31,894][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:33,476][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:33,477][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:33,477][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:55,564][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:55,565][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:55,565][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:55,664][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:55,665][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:55,665][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:55,766][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:55,767][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:55,767][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:55,866][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:55,867][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:55,867][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:55,965][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:55,966][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:55,966][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,067][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,068][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,068][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,166][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,167][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,167][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,268][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,269][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,269][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,367][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,368][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,368][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,467][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,468][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,468][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,569][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,570][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,570][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,668][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,669][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,669][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,770][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,771][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,771][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,869][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,870][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,870][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:56,969][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:56,970][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:56,970][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,071][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,072][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,072][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,170][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,171][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,171][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,272][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,273][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,273][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,371][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,372][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,372][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,473][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,474][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,474][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,573][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,574][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,574][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,672][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,673][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,673][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,774][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,775][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,775][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,874][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,875][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,875][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:57,976][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:57,977][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:57,977][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,075][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,076][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,076][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,176][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,177][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,177][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,278][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,279][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,279][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,378][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,378][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,379][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,480][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,480][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,481][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,579][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,580][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,580][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,680][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,681][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,681][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,780][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,781][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,781][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,880][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,881][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,881][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:58,981][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:58,982][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:58,982][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,080][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,081][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,081][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,181][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,182][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,182][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,281][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,281][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,282][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,381][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,382][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,382][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,483][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,484][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,484][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,582][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,582][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,583][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,683][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,684][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,684][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,783][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,783][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,783][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,883][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,884][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,884][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:40:59,985][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:40:59,986][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:40:59,986][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,084][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,085][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,085][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,185][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,186][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,186][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,284][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,284][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,285][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,385][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,386][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,386][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,487][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,586][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,587][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,687][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,687][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,688][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,786][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,786][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,787][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,887][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,888][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,888][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:00,987][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:00,987][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:00,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,086][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,087][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,187][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,188][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,286][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,286][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,287][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,387][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,388][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,487][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,487][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,586][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,586][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,587][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,687][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,688][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,688][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,786][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,786][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,787][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,887][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,887][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,888][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:01,987][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:01,987][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:01,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,086][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,087][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,187][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,188][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,286][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,286][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,287][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,387][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,388][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,487][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,586][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,587][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,687][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,688][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,688][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,786][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,787][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,787][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,887][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,888][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,888][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:02,987][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:02,987][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:02,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,086][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,087][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,187][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,188][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,286][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,287][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,387][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,388][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,487][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,586][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,586][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,587][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,687][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,688][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,688][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,786][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,787][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,787][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,887][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,888][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,888][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:03,987][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:03,987][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:03,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,086][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,087][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,187][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,188][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,286][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,286][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,287][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,387][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,388][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,487][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,586][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,587][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,687][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,688][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,688][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,786][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,786][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,787][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,889][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:04,988][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:04,988][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:04,989][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,088][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,189][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,388][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,489][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,489][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,587][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,588][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,588][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,688][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,689][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,689][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,787][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,788][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,788][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,889][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:05,988][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:05,989][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:05,989][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,189][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,388][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,389][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,489][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,489][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,587][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,588][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,588][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,688][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,688][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,689][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,787][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,788][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,788][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,889][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:06,988][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:06,988][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:06,989][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,388][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,587][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,588][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,688][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,689][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,689][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,787][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,787][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,788][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,888][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:07,988][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:07,988][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:07,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,189][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,388][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,388][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,587][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,588][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,688][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,689][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,689][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,787][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,787][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,788][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,889][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:08,988][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:08,988][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:08,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,088][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,189][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,288][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,388][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,389][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,488][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,587][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,587][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,588][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,688][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,689][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,689][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,787][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,787][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,788][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,888][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,888][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,889][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:09,987][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:09,987][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:09,988][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,087][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,087][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,088][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,188][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,287][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,287][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,288][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,389][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,390][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,390][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,488][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,488][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,489][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,588][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,588][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,589][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,690][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,691][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,691][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,789][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,790][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,790][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,890][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,890][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,891][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:10,989][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:10,989][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:10,990][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,089][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,090][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,090][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,190][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,190][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,191][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,289][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,289][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,290][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,390][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,391][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,391][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,489][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,489][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,490][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,589][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,589][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,590][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,690][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,691][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,691][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,789][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,789][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,790][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,890][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,891][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,891][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:11,989][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:11,990][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:11,990][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:12,089][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:12,090][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:12,090][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:12,190][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:12,190][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:12,191][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:12,289][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:12,289][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:12,290][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:12,390][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:12,391][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:12,391][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:41:12,489][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:41:12,489][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:41:12,490][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:42:09,576][WatchServerHandler:71] ImServerHandler  join from 127.0.0.1:51259 nid:d34f6a63
+[INFO ][20171208 16:42:16,840][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:42:16,840][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:42:16,841][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:42:17,400][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 16:42:17,401][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 16:42:17,401][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 16:42:41,824][WatchDecoder:46] message:[3G*3919753126*0009*LK,�Ǻ�]
+[INFO ][20171208 16:42:41,825][WatchServerHandler:57] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "\357\277\275\307\272\357\277\275"
+
+[INFO ][20171208 16:42:41,825][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:57:27,646][WatchServer:51] start watch server ...
+[INFO ][20171208 18:57:27,661][WatchServer:85] start watch server at port[8112].
+[INFO ][20171208 18:57:28,106][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171208 18:57:34,105][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:52228 nid:29713afa
+[INFO ][20171208 18:57:37,595][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:57:37,715][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[ERROR][20171208 18:57:37,715][WatchServerHandler:83] WatchServerHandler channerRead error.
+java.lang.NullPointerException
+	at com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:71)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at com.netty.demo.server.coder.WatchDecoder.decode(WatchDecoder.java:50)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:411)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20171208 18:57:37,719][WatchServerHandler:109] WatchServerHandler (127.0.0.1:52228) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171208 18:58:07,870][WatchServer:51] start watch server ...
+[INFO ][20171208 18:58:07,886][WatchServer:85] start watch server at port[8112].
+[INFO ][20171208 18:58:08,346][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171208 18:58:13,153][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:52419 nid:06290487
+[INFO ][20171208 18:58:16,964][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:17,086][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:17,087][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:18,629][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:18,630][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:18,630][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:18,731][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:18,732][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:18,732][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:18,830][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:18,831][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:18,833][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:18,932][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:18,933][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:18,933][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,031][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,032][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,032][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,131][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,132][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,132][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,233][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,234][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,235][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,332][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,333][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,333][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,434][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,435][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,435][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,533][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,534][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,534][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,635][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,636][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,636][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,735][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,736][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,736][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,834][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,835][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,835][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:19,936][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:19,937][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:19,937][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,035][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,036][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,036][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,137][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,138][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,138][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,237][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,237][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,237][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,336][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,337][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,337][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,438][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,439][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,439][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,537][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,538][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,538][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,639][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,640][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,640][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,738][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,739][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,739][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,839][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,840][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,840][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:20,941][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:20,942][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:20,942][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,041][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,042][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,042][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,143][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,144][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,144][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,242][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,242][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,243][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,343][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,344][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,344][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,443][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,444][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,444][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,543][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,544][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,544][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,645][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,646][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,646][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,745][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,746][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,746][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,846][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,847][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,847][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:21,945][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:21,946][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:21,946][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,046][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,047][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,047][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,148][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,149][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,149][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,247][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,247][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,248][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,349][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,350][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,350][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,448][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,449][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,449][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,549][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,550][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,550][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,649][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,650][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,748][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,749][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,750][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,849][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,850][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,850][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:22,948][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:22,949][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:22,949][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,049][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,050][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,050][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,149][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,150][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,150][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,248][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,248][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,249][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,349][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,350][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,350][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,448][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,449][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,449][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,549][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,550][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,550][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,649][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,650][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,748][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,749][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,749][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,849][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,850][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,850][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:23,948][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:23,949][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:23,949][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,049][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,050][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,050][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,149][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,150][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,150][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,248][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,249][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,249][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,349][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,350][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,350][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,448][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,449][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,449][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,549][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,550][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,550][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,649][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,650][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,748][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,749][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,749][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,849][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,850][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,850][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:24,948][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:24,949][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:24,949][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,050][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,051][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,051][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,149][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,150][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,150][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,249][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,250][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,250][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,350][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,351][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,351][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,449][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,450][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,450][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,550][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,551][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,551][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,649][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,650][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,749][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,750][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,750][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,850][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,851][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,851][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:25,949][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:25,950][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:25,950][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,050][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,051][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,051][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,149][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,149][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,150][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,249][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,250][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,250][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,350][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,351][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,351][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,450][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,450][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,451][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,551][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,552][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,552][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,650][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,651][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,750][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,751][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,751][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,851][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,852][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,852][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:26,950][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:26,951][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:26,951][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,051][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,052][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,052][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,150][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,151][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,151][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,250][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,251][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,251][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,351][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,352][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,352][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,450][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,451][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,451][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,551][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,552][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,552][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,650][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,651][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,651][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,750][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,751][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,751][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,851][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,852][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,852][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:27,950][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:27,951][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:27,951][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,051][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,052][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,052][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,150][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,150][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,151][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,250][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,251][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,251][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,351][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,352][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,352][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,450][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,451][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,451][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,551][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,552][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,552][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,650][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,650][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,651][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,752][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,753][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,753][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,853][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,854][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,854][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:28,952][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:28,952][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:28,953][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,053][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,054][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,054][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,152][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,153][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,154][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,254][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,255][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,255][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,354][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,355][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,355][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,454][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,455][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,455][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,555][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,556][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,556][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,654][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,654][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,655][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,756][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,757][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,757][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,856][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,857][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,857][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:29,956][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:29,957][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:29,957][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,057][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,058][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,058][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,156][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,157][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,157][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,258][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,259][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,259][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,358][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,358][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,359][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,460][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,461][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,461][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,561][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,561][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,561][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,660][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,661][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,661][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,762][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,762][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,763][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,862][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,863][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,863][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:30,964][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:30,964][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:30,965][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,064][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,065][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,065][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,164][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,165][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,165][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,266][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,267][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,267][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,366][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,366][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,367][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,468][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,469][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,469][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,568][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,568][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,569][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,670][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,671][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,671][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,769][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,770][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,770][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,870][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,870][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,871][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:31,972][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:31,973][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:31,973][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,072][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,073][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,073][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,174][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,175][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,175][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,273][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,274][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,274][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,374][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,375][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,375][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,474][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,475][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,475][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,573][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,573][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,574][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,675][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,675][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,676][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,774][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,774][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,775][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,875][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,876][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,876][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:32,975][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:32,976][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:32,976][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,075][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,075][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,076][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,177][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,178][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,178][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,276][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,277][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,277][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,377][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,377][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,378][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,476][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,476][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,477][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,577][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,577][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,578][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,679][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,679][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,680][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,778][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,778][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,779][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,879][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,880][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,880][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:33,978][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:33,978][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:33,979][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:34,079][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:34,080][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:34,080][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:34,179][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:34,180][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:34,180][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 18:58:34,278][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 18:58:34,279][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 18:58:34,279][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:45,206][WatchServer:51] start watch server ...
+[INFO ][20171208 19:00:45,223][WatchServer:85] start watch server at port[8112].
+[INFO ][20171208 19:00:45,677][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171208 19:00:52,208][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:53143 nid:b7b9fdbc
+[INFO ][20171208 19:00:53,531][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:53152 nid:e007fae1
+[INFO ][20171208 19:00:55,975][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,100][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,100][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,108][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,108][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,108][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,169][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,170][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,170][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,271][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,272][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,275][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,370][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,371][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,371][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,472][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,473][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,474][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,571][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,571][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,572][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,673][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,674][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,674][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,773][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,774][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,774][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,872][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,873][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,873][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:56,974][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:56,975][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:56,975][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,073][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,074][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,074][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,175][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,176][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,176][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,274][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,275][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,275][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,374][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,375][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,375][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,476][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,477][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,477][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,575][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,576][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,576][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,677][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,678][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,678][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,777][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,778][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,778][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,877][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,878][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,878][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:57,979][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:57,980][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:57,980][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,078][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,079][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,079][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,180][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,181][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,181][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,280][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,281][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,281][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,382][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,383][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,383][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,482][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,483][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,483][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,582][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,582][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,583][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,684][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,685][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,685][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,784][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,785][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,785][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,886][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,887][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,887][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:58,986][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:58,987][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:58,987][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,088][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,089][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,089][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,188][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,189][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,189][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,288][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,289][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,289][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,390][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,391][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,391][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,489][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,489][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,490][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:00:59,591][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:00:59,592][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:00:59,592][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:01,665][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:01,666][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:01,666][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:01,766][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:01,767][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:01,767][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:01,865][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:01,866][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:01,866][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:01,966][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:01,967][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:01,967][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,065][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,066][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,066][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,166][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,167][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,167][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,266][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,267][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,267][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,365][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,366][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,366][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,466][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,467][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,467][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,565][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,566][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,566][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,667][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,668][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,668][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,768][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,769][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,769][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,867][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,868][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,868][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:02,968][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:02,969][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:02,969][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,067][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,068][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,068][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,169][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,170][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,170][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,269][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,270][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,270][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,369][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,370][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,370][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,470][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,471][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,471][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,569][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,570][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,570][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,671][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,672][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,672][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,771][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,772][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,772][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,871][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,872][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,872][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:03,972][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:03,973][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:03,973][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:04,071][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:04,072][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:04,072][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:04,172][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:04,173][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:04,173][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:04,272][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:04,273][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:04,273][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171208 19:01:04,374][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171208 19:01:04,375][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171208 19:01:04,375][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+

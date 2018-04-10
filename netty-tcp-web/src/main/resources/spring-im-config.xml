@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:tool="http://www.springframework.org/schema/tool" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:websocket="http://www.springframework.org/schema/websocket"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+	http://www.springframework.org/schema/beans/spring-beans.xsd  
+	http://www.springframework.org/schema/tx  
+	http://www.springframework.org/schema/tx/spring-tx.xsd  
+	http://www.springframework.org/schema/aop  
+	http://www.springframework.org/schema/aop/spring-aop.xsd  
+	http://www.springframework.org/schema/jee  
+	http://www.springframework.org/schema/jee/spring-jee.xsd  
+	http://www.springframework.org/schema/context  
+	http://www.springframework.org/schema/context/spring-context.xsd  
+	http://www.springframework.org/schema/util  
+	http://www.springframework.org/schema/util/spring-util.xsd  
+	http://www.springframework.org/schema/tool  
+	http://www.springframework.org/schema/tool/spring-tool.xsd
+	http://www.springframework.org/schema/task 
+	http://www.springframework.org/schema/task/spring-task.xsd
+	http://www.springframework.org/schema/websocket 
+	http://www.springframework.org/schema/websocket/spring-websocket-4.2.xsd
+	http://www.springframework.org/schema/mvc 
+	http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd" default-autowire="byName">
+
+    <!-- watchServer  port 8112    -->
+    <bean id="watchServer" class="com.netty.demo.server.WatchServer" init-method="init"   destroy-method="destroy">
+        <property name="port" value="8112"/>
+    </bean>  
+   <!-- watchWebsocketServer  port 8111    -->
+   <bean id="watchWebsocketServer" class="com.netty.demo.server.WatchWebSocketServer" init-method="init"  destroy-method="destroy">
+        <property name="port" value="8111"/>
+   </bean> 
+    
+   <bean id="connertor"  class="com.netty.demo.server.connertor.impl.WatchConnertorImpl"/> 
+   <bean id="proxy" class="com.netty.demo.server.proxy.impl.MessageProxyImpl"/>
+   <bean id="sessionManager" class="com.netty.demo.server.session.impl.SessionManagerImpl"/> 
+</beans>
+

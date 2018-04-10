@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">  
+  <script type="text/javascript" src="js/MessageBody.js"></script> 
+</head>
+<body onbeforeunload="event.returnValue='你的页面数据尚未保存，确定退出吗？';">
+<script type="text/javascript">
+var socket;
+if(!window.WebSocket){
+	window.WebSocket = window.MozWebSocket; 
+}
+if(window.WebSocket){
+//"ws://localhost:8111/websocket"
+//ws://121.42.167.141:8111/websocket
+	socket = new WebSocket("ws://localhost:8111/websocket");
+	socket.binaryType = "arraybuffer"; 
+	socket.onmessage = function(event){
+		var ta = document.getElementById("responseText");
+		var data;
+		if (event.data instanceof ArrayBuffer){
+			data =  proto.messagebody.deserializeBinary(event.data);      //如果后端发送的是二进制帧（protobuf）会收到前面定义的类型
+		}else{
+			data = event.data;                //后端返回的是文本帧时触发
+		}
+		
+		//ta.value = "";
+		ta.value = data;
+		console.log(data.toObject());
+	};
+	socket.onopen = function(){
+		var ta = document.getElementById("responseText");
+		ta.value = "打开WebSocket服务正常，浏览器支持WebSocket.";
+	};
+	socket.onclose = function(){
+		var ta = document.getElementById("responseText");
+		ta.value = "WebSocket 关闭";
+	};
+}else{
+	alert("抱歉你的浏览器不支持WebSocket协议.");
+}
+/**
+*message 消息类型：
+*deviceid 发送人：
+*receiver 接收人
+*body 消息主题
+*/
+function send(message,deviceid,receiver,body){
+	if(!window.WebSocket){return;}
+	if(socket.readyState == WebSocket.OPEN){
+		//发送的内容给服务器
+      	var content = new proto.messagebody();
+		content.setFactory("3G");//厂商
+		content.setDeviceid(deviceid);//设备id
+		content.setLength("0009");//长度
+		content.setType(message);//类型
+		content.setBody(body);//内容
+		content.setSender(deviceid);//发送人
+		content.setReceiver(receiver);//回复人
+		
+		var bytes = content.serializeBinary();
+		//var bytes = " [3G*3919753124*0009*LK,0,12,94]";
+	    socket.send(bytes);  
+		//console.log("content:"+bytes);		
+	}else{
+		alert("WebSocket链接没有建立成功.");
+	}
+}
+
+    var startTime = Math.ceil(new Date().getTime()/1000), //单位秒
+        getDuration = function(){
+            var time = '',
+                hours = 0,
+                minutes = 0,
+                seconds = 0,
+                endTime = Math.ceil(new Date().getTime()/1000),
+                duration = endTime - startTime;
+
+            hours = Math.floor(duration/3600); //停留小时数
+            minutes = Math.floor(duration%3600/60); //停留分钟数
+            seconds = Math.floor(duration%3600%60); //停留秒数
+
+            time = (hours < 10 ? '0' + hours : hours) + ':' + (minutes < 10 ? '0' + minutes : minutes) + ':' + (seconds < 10 ? '0' + seconds : seconds);
+
+            return time;
+        };        
+
+
+    window.onbeforeunload = function(e){
+        var duration = getDuration();
+
+        //request(duration);
+    };
+</script>
+<h2>Hello World!</h2>
+<br>
+<form onsubmit = "return false;">
+发送人：<input type="text" name="deviceid" value="admin"/>
+回复人：<input type="text" name="receiver" value="3919753126"/>
+消息类型：<input type="text" name="message" value="LK"/>
+消息内容：<textarea id="body" name="body" style="width:100px;height:60px;"></textarea>
+<br><br>
+<input type="button" value="发送" onclick="send(this.form.message.value,this.form.deviceid.value,this.form.receiver.value,this.form.body.value)"/>
+<hr>
+<textarea id="responseText" style="width:500px;height:300px;"></textarea>
+</form>
+</body>
+</html>

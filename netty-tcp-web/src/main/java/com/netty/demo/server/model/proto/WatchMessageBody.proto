@@ -1,0 +1,31 @@
+syntax = "proto3";
+package com.netty.demo.server.model.proto;
+option java_outer_classname = "WatchMessageBodyProto";
+message Model{
+	//工厂 3G
+	string factory = 1;
+	
+	//设备id 3918173069
+	string deviceId = 2;
+	
+	//内容长度的长度   消息类型+消息主体 = 内容长度
+	string length = 3;
+	
+	//消息类型
+	string type = 4;
+	
+	//消息主体
+	string body = 5;
+	
+	//时间戳
+	string timeStamp = 6;
+	
+	//发送人
+	string sender = 7;
+	
+	//接收人
+	string receiver = 8;
+	
+	//用户组编号
+	string groupId =9;
+}

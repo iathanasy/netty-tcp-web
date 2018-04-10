@@ -1,0 +1,135 @@
+[INFO ][20171215 17:28:06,723][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7736b039: startup date [Fri Dec 15 17:28:06 CST 2017]; root of context hierarchy
+[INFO ][20171215 17:28:06,835][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171215 17:28:06,998][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171215 17:28:07,366][WatchServer:50] start watch server ...
+[INFO ][20171215 17:28:07,366][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@6bb6f7fc--com.netty.demo.server.proxy.impl.MessageProxyImpl@3952f8a3--8112
+[INFO ][20171215 17:28:07,379][WatchServer:84] start watch server at port[8112].
+[INFO ][20171215 17:28:07,823][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171215 17:28:07,861][WatchWebSocketServer:72] start watch websocket server ...
+[INFO ][20171215 17:28:07,861][WatchWebSocketServer:73] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@6bb6f7fc--com.netty.demo.server.proxy.impl.MessageProxyImpl@3952f8a3--8111
+[INFO ][20171215 17:28:07,863][WatchWebSocketServer:131] start watch websocketserver at port[8111].
+[INFO ][20171215 17:28:07,864][WatchWebSocketServer$2:137] websocketserver have success bind to 8111
+[INFO ][20171215 17:28:21,729][WatchServerHandler:92] WatchServerHandler  join from 127.0.0.1:52377 nid:a1a8af69
+[INFO ][20171215 17:28:22,707][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171215 17:28:22,794][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171215 17:28:22,799][WatchConnertorImpl:115] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:22,799][SessionManagerImpl:160] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:22,801][SessionManagerImpl:175] create new session 3919753126 successful!
+[INFO ][20171215 17:28:22,806][WatchConnertorImpl:119] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:22,807][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171215 17:28:22,816][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:28:22,816][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20171215 17:28:22,816][WatchConnertorImpl:160] key:3919753126
+[INFO ][20171215 17:28:36,276][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171215 17:28:36,277][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171215 17:28:36,277][WatchConnertorImpl:111] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:36,277][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171215 17:28:36,278][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:28:36,278][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20171215 17:28:36,278][WatchConnertorImpl:160] key:3919753126
+[INFO ][20171215 17:28:37,276][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171215 17:28:37,277][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171215 17:28:37,277][WatchConnertorImpl:111] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:37,277][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171215 17:28:37,278][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:28:37,278][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20171215 17:28:37,279][WatchConnertorImpl:160] key:3919753126
+[INFO ][20171215 17:28:38,372][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171215 17:28:38,373][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171215 17:28:38,373][WatchConnertorImpl:111] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xa1a8af69, L:/127.0.0.1:8112 - R:/127.0.0.1:52377])
+[INFO ][20171215 17:28:38,375][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171215 17:28:38,376][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:28:38,376][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20171215 17:28:38,376][WatchConnertorImpl:160] key:3919753126
+[INFO ][20171215 17:29:55,098][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2e6ef76f: startup date [Fri Dec 15 17:29:55 CST 2017]; root of context hierarchy
+[INFO ][20171215 17:29:55,189][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171215 17:29:55,348][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171215 17:29:55,751][WatchServer:50] start watch server ...
+[INFO ][20171215 17:29:55,752][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@1d3639a5--com.netty.demo.server.proxy.impl.MessageProxyImpl@53028e9e--8112
+[INFO ][20171215 17:29:55,768][WatchServer:84] start watch server at port[8112].
+[WARN ][20171215 17:29:56,214][AbstractApplicationContext:550] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'watchServer' defined in class path resource [spring-im-config.xml]: Invocation of init method failed; nested exception is java.net.BindException: Address already in use: bind
+[INFO ][20171215 17:30:10,652][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2e6ef76f: startup date [Fri Dec 15 17:30:10 CST 2017]; root of context hierarchy
+[INFO ][20171215 17:30:10,747][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171215 17:30:10,907][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171215 17:30:11,270][WatchServer:50] start watch server ...
+[INFO ][20171215 17:30:11,271][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@4ce151a5--com.netty.demo.server.proxy.impl.MessageProxyImpl@5cb74f11--8112
+[INFO ][20171215 17:30:11,284][WatchServer:84] start watch server at port[8112].
+[INFO ][20171215 17:30:11,729][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171215 17:30:11,766][WatchWebSocketServer:72] start watch websocket server ...
+[INFO ][20171215 17:30:11,766][WatchWebSocketServer:73] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@4ce151a5--com.netty.demo.server.proxy.impl.MessageProxyImpl@5cb74f11--8111
+[INFO ][20171215 17:30:11,767][WatchWebSocketServer:131] start watch websocketserver at port[8111].
+[INFO ][20171215 17:30:11,769][WatchWebSocketServer$2:137] websocketserver have success bind to 8111
+[INFO ][20171215 17:30:17,109][WatchServerHandler:92] WatchServerHandler  join from 127.0.0.1:53020 nid:b4e541cf
+[INFO ][20171215 17:30:18,023][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171215 17:30:18,109][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171215 17:30:18,114][WatchConnertorImpl:115] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0xb4e541cf, L:/127.0.0.1:8112 - R:/127.0.0.1:53020])
+[INFO ][20171215 17:30:18,114][SessionManagerImpl:160] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xb4e541cf, L:/127.0.0.1:8112 - R:/127.0.0.1:53020])
+[INFO ][20171215 17:30:18,117][SessionManagerImpl:175] create new session 3919753126 successful!
+[INFO ][20171215 17:30:18,121][WatchConnertorImpl:119] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0xb4e541cf, L:/127.0.0.1:8112 - R:/127.0.0.1:53020])
+[INFO ][20171215 17:30:18,122][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171215 17:30:18,131][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:30:18,131][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20171215 17:30:18,131][WatchConnertorImpl:160] key:3919753126
+[INFO ][20171215 17:30:23,270][SessionManagerImpl:100] remove the session 3919753126 from sessions!
+[INFO ][20171215 17:30:23,271][WatchConnertorImpl:77] connector close sessionId -> 3919753126 success 
+[INFO ][20171215 17:30:23,271][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:30:23,271][WatchConnertorImpl:158] 链接个数：0
+[WARN ][20171215 17:30:23,272][WatchConnertorImpl:44] connector close channel sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xb4e541cf, L:/127.0.0.1:8112 ! R:/127.0.0.1:53020])
+[INFO ][20171215 17:30:23,272][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20171215 17:30:23,272][WatchConnertorImpl:158] 链接个数：0
+[INFO ][20171215 17:31:22,369][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2e6ef76f: startup date [Fri Dec 15 17:31:22 CST 2017]; root of context hierarchy
+[INFO ][20171215 17:31:22,454][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171215 17:31:22,602][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171215 17:31:22,946][WatchServer:50] start watch server ...
+[INFO ][20171215 17:31:22,946][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@6bb6f7fc--com.netty.demo.server.proxy.impl.MessageProxyImpl@3952f8a3--8112
+[INFO ][20171215 17:31:22,958][WatchServer:84] start watch server at port[8112].
+[INFO ][20171215 17:31:23,383][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171215 17:31:23,417][WatchWebSocketServer:72] start watch websocket server ...
+[INFO ][20171215 17:31:23,417][WatchWebSocketServer:73] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@6bb6f7fc--com.netty.demo.server.proxy.impl.MessageProxyImpl@3952f8a3--8111
+[INFO ][20171215 17:31:23,418][WatchWebSocketServer:131] start watch websocketserver at port[8111].
+[INFO ][20171215 17:31:23,420][WatchWebSocketServer$2:137] websocketserver have success bind to 8111

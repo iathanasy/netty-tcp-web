@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta charset = "UTF-8">
+</head>
+<body>
+<script type="text/javascript">
+var socket;
+if(!window.WebSocket){
+	window.WebSocket = window.MozWebSocket; 
+}
+if(window.WebSocket){
+	socket = new WebSocket("ws://localhost:8111/websocket");
+	socket.onmessage = function(event){
+		var ta = document.getElementById("responseText");
+		ta.value = "";
+		ta.value = event.data;
+	};
+	socket.onopen = function(){
+		var ta = document.getElementById("responseText");
+		ta.value = "打开WebSocket服务正常，浏览器支持WebSocket.";
+	};
+	socket.onclose = function(){
+		var ta = document.getElementById("responseText");
+		ta.value = "WebSocket 关闭";
+	};
+}else{
+	alert("抱歉你的浏览器不支持WebSocket协议.");
+}
+
+function send(message){
+	if(!window.WebSocket){return;}
+	if(socket.readyState == WebSocket.OPEN){
+		socket.send(message);
+	}else{
+		alert("WebSocket链接没有建立成功.");
+	}
+}
+</script>
+<h2>Hello World!</h2>
+<br>
+<form onsubmit = "return false;">
+<input type="text" name="message" value="消息"/>
+<br><br>
+<input type="button" value="发送" onclick="send(this.form.message.value)"/>
+<hr>
+<textarea id="responseText" style="width:500px;height:300px;"></textarea>
+</form>
+</body>
+</html>

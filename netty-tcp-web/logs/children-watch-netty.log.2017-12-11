@@ -1,0 +1,1811 @@
+[INFO ][20171211 09:29:22,470][WatchServer:51] start watch server ...
+[INFO ][20171211 09:29:22,504][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 09:29:23,019][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 09:29:28,089][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:54327 nid:f54f76f3
+[INFO ][20171211 09:29:29,518][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:29:29,728][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 09:29:29,728][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[WARN ][20171211 09:31:09,775][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54327) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:31:29,737][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54327) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:32:49,738][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54327) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:33:29,737][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54327) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 09:34:27,323][WatchServer:51] start watch server ...
+[INFO ][20171211 09:34:27,347][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 09:34:27,802][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 09:34:34,079][WatchServerHandler:89] WatchServerHandler  join from 127.0.0.1:54448 nid:d1aeb2ec
+[INFO ][20171211 09:34:35,035][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:34:35,170][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 09:34:35,170][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[WARN ][20171211 09:36:15,184][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54448) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:36:35,180][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54448) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:37:55,181][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54448) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 09:38:35,180][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54448) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 09:39:07,026][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:39:07,027][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 09:39:07,028][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 09:39:30,082][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:39:30,083][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99"
+
+[INFO ][20171211 09:39:30,086][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 09:41:03,260][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:41:03,261][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 09:41:03,263][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 09:41:19,005][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99 [3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 09:41:19,006][WatchServerHandler:68] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99 [3G*3919753126*0009*LK,0,1255,99"
+
+[INFO ][20171211 09:41:19,006][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[WARN ][20171211 09:42:59,007][WatchServerHandler:109] WatchServerHandler (127.0.0.1:54448) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 10:00:29,881][WatchServer:51] start watch server ...
+[INFO ][20171211 10:00:29,905][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 10:00:30,362][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 10:00:36,275][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54919 nid:e214d97f
+[INFO ][20171211 10:00:37,255][WatchDecoder:46] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 10:00:37,389][WatchServerHandler:76] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 10:00:37,389][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 10:00:49,946][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54921 nid:6f80e1b1
+[INFO ][20171211 10:01:02,362][WatchDecoder:46] message:[3G*3919753127*0009*LK,0,1255,100]
+[INFO ][20171211 10:01:02,362][WatchServerHandler:76] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,100"
+
+[INFO ][20171211 10:01:02,363][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 10:02:17,402][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 10:02:42,365][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 10:02:58,365][WatchDecoder:46] message:[3G*3919753127*0009*LK,0,1255,100]
+[INFO ][20171211 10:02:58,366][WatchServerHandler:76] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,100"
+
+[INFO ][20171211 10:02:58,368][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 10:04:38,372][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 16:36:04,461][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:36:04,575][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:36:04,593][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@66c5384d: startup date [Mon Dec 11 16:36:04 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:36:04,892][WatchServer:51] start watch server ...
+[INFO ][20171211 16:36:04,909][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 16:36:05,383][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 16:36:24,348][WatchServerHandler:109] WatchServerHandler  join from 127.0.0.1:51835 nid:08b91873
+[INFO ][20171211 16:36:25,906][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 16:36:26,081][WatchServerHandler:83] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[ERROR][20171211 16:36:26,082][WatchServerHandler:96] WatchServerHandler channerRead error.
+java.lang.NullPointerException
+	at com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:87)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at com.netty.demo.server.coder.WatchDecoder.decode(WatchDecoder.java:52)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:411)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20171211 16:36:26,086][WatchServerHandler:134] WatchServerHandler (127.0.0.1:51835) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 16:38:04,335][WatchServerHandler:134] WatchServerHandler (127.0.0.1:51835) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 16:38:26,089][WatchServerHandler:134] WatchServerHandler (127.0.0.1:51835) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 16:41:00,473][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:41:00,536][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:41:00,554][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@4cc56236: startup date [Mon Dec 11 16:41:00 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:41:06,372][WatchServer:51] start watch server ...
+[INFO ][20171211 16:41:06,395][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 16:41:06,888][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 16:41:14,332][WatchServerHandler:114] WatchServerHandler  join from 127.0.0.1:51917 nid:01dbff13
+[INFO ][20171211 16:41:16,984][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 16:41:17,094][WatchServerHandler:88] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[ERROR][20171211 16:41:17,095][WatchServerHandler:101] WatchServerHandler channerRead error.
+java.lang.NullPointerException
+	at com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:92)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at com.netty.demo.server.coder.WatchDecoder.decode(WatchDecoder.java:52)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:411)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20171211 16:41:17,099][WatchServerHandler:139] WatchServerHandler (127.0.0.1:51917) -> Unexpected exception from downstream.java.lang.NullPointerException
+[WARN ][20171211 16:42:21,455][WatchServerHandler:139] WatchServerHandler (127.0.0.1:51917) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 16:42:36,976][WatchServerHandler:114] WatchServerHandler  join from 127.0.0.1:51928 nid:4dc1e6d9
+[INFO ][20171211 16:42:40,320][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 16:42:40,320][WatchServerHandler:88] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[ERROR][20171211 16:42:51,991][WatchServerHandler:101] WatchServerHandler channerRead error.
+java.lang.NullPointerException
+	at com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:92)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at com.netty.demo.server.coder.WatchDecoder.decode(WatchDecoder.java:52)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:411)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20171211 16:42:51,994][WatchServerHandler:139] WatchServerHandler (127.0.0.1:51928) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 16:43:19,433][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:43:19,494][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:43:19,514][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@5fe8bb4c: startup date [Mon Dec 11 16:43:19 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:43:25,023][WatchServer:51] start watch server ...
+[INFO ][20171211 16:43:25,047][WatchServer:85] start watch server at port[8112].
+[INFO ][20171211 16:43:25,532][WatchServer$2:93] Server have success bind to 8112
+[INFO ][20171211 16:43:30,552][WatchServerHandler:108] WatchServerHandler  join from 127.0.0.1:51971 nid:49bba75e
+[INFO ][20171211 16:43:31,661][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 16:43:31,772][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[ERROR][20171211 16:43:33,856][WatchServerHandler:95] WatchServerHandler channerRead error.
+java.lang.NullPointerException
+	at com.netty.demo.server.WatchServerHandler.channelRead(WatchServerHandler.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at com.netty.demo.server.coder.WatchDecoder.decode(WatchDecoder.java:52)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:411)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:248)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:351)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:373)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:359)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+[WARN ][20171211 16:43:33,862][WatchServerHandler:133] WatchServerHandler (127.0.0.1:51971) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 16:45:09,917][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:45:09,972][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:45:09,991][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@bb2d83d: startup date [Mon Dec 11 16:45:09 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:45:10,178][WatchServer:50] init :null--null--0
+[INFO ][20171211 16:45:10,247][WatchServer:54] start watch server ...
+[INFO ][20171211 16:45:10,263][WatchServer:88] start watch server at port[8112].
+[INFO ][20171211 16:45:10,714][WatchServer$2:96] Server have success bind to 8112
+[INFO ][20171211 16:45:51,792][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:45:51,851][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:45:51,870][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@bb2d83d: startup date [Mon Dec 11 16:45:51 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:45:52,055][WatchServer:50] init :null--null--0
+[INFO ][20171211 16:45:52,129][WatchServer:54] start watch server ...
+[INFO ][20171211 16:45:52,129][WatchServer:55] init :null--null--8112
+[INFO ][20171211 16:45:52,147][WatchServer:88] start watch server at port[8112].
+[INFO ][20171211 16:45:52,591][WatchServer$2:96] Server have success bind to 8112
+[INFO ][20171211 16:50:52,638][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:50:52,694][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:50:52,714][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@bb2d83d: startup date [Mon Dec 11 16:50:52 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:50:52,900][WatchServer:50] init :null--null--0
+[INFO ][20171211 16:50:52,970][WatchServer:54] start watch server ...
+[INFO ][20171211 16:50:52,970][WatchServer:55] init :null--null--81122
+[INFO ][20171211 16:50:52,986][WatchServer:88] start watch server at port[81122].
+[WARN ][20171211 16:50:52,988][AbstractApplicationContext:550] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'imServer' defined in URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: port out of range:81122
+[INFO ][20171211 16:53:34,348][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:53:34,407][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:53:34,427][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@bb2d83d: startup date [Mon Dec 11 16:53:34 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:53:34,619][WatchServer:50] init :null--null--0
+[INFO ][20171211 16:53:34,691][WatchServer:54] start watch server ...
+[INFO ][20171211 16:53:34,692][WatchServer:55] init :null--null--8112
+[INFO ][20171211 16:53:34,707][WatchServer:88] start watch server at port[8112].
+[INFO ][20171211 16:53:35,157][WatchServer$2:96] Server have success bind to 8112
+[INFO ][20171211 16:53:35,159][WatchConnertorImpl:26] init-->WatchConnertorImpl...
+[INFO ][20171211 16:53:35,159][MessageProxyImpl:17] init-->MessageProxyImpl...
+[INFO ][20171211 16:53:35,160][SessionManagerImpl:33] init-->SessionManagerImpl...
+[INFO ][20171211 16:54:50,294][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 16:54:50,351][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 16:54:50,370][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@1df37bf1: startup date [Mon Dec 11 16:54:50 CST 2017]; root of context hierarchy
+[INFO ][20171211 16:54:50,431][WatchConnertorImpl:26] init-->WatchConnertorImpl...
+[INFO ][20171211 16:54:50,456][MessageProxyImpl:17] init-->MessageProxyImpl...
+[INFO ][20171211 16:54:50,457][SessionManagerImpl:33] init-->SessionManagerImpl...
+[INFO ][20171211 16:54:50,586][WatchServer:50] init :null--null--0
+[INFO ][20171211 16:54:50,639][WatchServer:54] start watch server ...
+[INFO ][20171211 16:54:50,639][WatchServer:55] init :null--null--8112
+[INFO ][20171211 16:54:50,656][WatchServer:88] start watch server at port[8112].
+[INFO ][20171211 16:54:51,108][WatchServer$2:96] Server have success bind to 8112
+[INFO ][20171211 17:00:56,932][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 17:00:56,989][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 17:00:57,007][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@1df37bf1: startup date [Mon Dec 11 17:00:57 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:00:57,262][WatchServer:50] start watch server ...
+[INFO ][20171211 17:00:57,262][WatchServer:51] init :null--null--8112
+[INFO ][20171211 17:00:57,276][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:00:57,717][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:00:57,720][SessionManagerImpl:33] init-->SessionManagerImpl...
+[INFO ][20171211 17:04:50,687][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-config.xml]
+[INFO ][20171211 17:04:50,744][XmlBeanDefinitionReader:317] Loading XML bean definitions from URL [file:/F:/Workspaces/MyEclipse/netty-tcp-web/target/classes/spring-im-config.xml]
+[INFO ][20171211 17:04:50,763][AbstractApplicationContext:582] Refreshing org.springframework.context.support.GenericXmlApplicationContext@5c4e1a93: startup date [Mon Dec 11 17:04:50 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:04:51,024][WatchServer:50] start watch server ...
+[INFO ][20171211 17:04:51,024][WatchServer:51] init :null--null--8112
+[INFO ][20171211 17:04:51,041][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:04:51,498][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:04:51,500][SessionManagerImpl:33] init-->SessionManagerImpl...
+[INFO ][20171211 17:19:37,143][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2e6ef76f: startup date [Mon Dec 11 17:19:37 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:19:37,230][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 17:19:37,377][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 17:19:37,687][SessionManagerImpl:33] init-->SessionManagerImpl...
+[INFO ][20171211 17:19:37,713][WatchServer:50] start watch server ...
+[INFO ][20171211 17:19:37,713][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@349f4d7--com.netty.demo.server.proxy.impl.MessageProxyImpl@6c6950f0--8112
+[INFO ][20171211 17:19:37,726][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:19:38,152][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:19:53,918][WatchServerHandler:108] WatchServerHandler  join from 127.0.0.1:53261 nid:d469ef71
+[INFO ][20171211 17:19:56,499][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:19:56,599][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:19:56,603][WatchServerHandler:98] ----------------------------------------------
+[WARN ][20171211 17:19:56,603][WatchServerHandler:133] WatchServerHandler (127.0.0.1:53261) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 17:22:02,385][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@59fdef61: startup date [Mon Dec 11 17:22:02 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:22:02,473][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 17:22:02,621][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 17:22:02,955][WatchServer:50] start watch server ...
+[INFO ][20171211 17:22:02,955][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@7640f42a--com.netty.demo.server.proxy.impl.MessageProxyImpl@225e2e0d--8112
+[INFO ][20171211 17:22:02,966][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:22:03,391][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:22:09,424][WatchServerHandler:108] WatchServerHandler  join from 127.0.0.1:53325 nid:c443a48a
+[INFO ][20171211 17:22:10,712][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:22:10,813][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:22:23,698][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:22:23,699][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:23:08,854][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1ea3e365: startup date [Mon Dec 11 17:23:08 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:23:08,955][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 17:23:09,124][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 17:23:12,851][WatchServer:50] start watch server ...
+[INFO ][20171211 17:23:12,852][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@1b3f1bfb--com.netty.demo.server.proxy.impl.MessageProxyImpl@4c4609b6--8112
+[INFO ][20171211 17:23:12,873][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:23:13,315][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:23:19,084][WatchServerHandler:108] WatchServerHandler  join from 127.0.0.1:53367 nid:7acddeea
+[INFO ][20171211 17:23:20,222][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:23:20,332][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:25:11,393][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:25:11,394][WatchServerHandler:82] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:58:49,287][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2e6ef76f: startup date [Mon Dec 11 17:58:49 CST 2017]; root of context hierarchy
+[INFO ][20171211 17:58:49,374][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 17:58:49,527][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 17:58:49,863][WatchServer:50] start watch server ...
+[INFO ][20171211 17:58:49,864][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@6ba67ab5--com.netty.demo.server.proxy.impl.MessageProxyImpl@7ec23849--8112
+[INFO ][20171211 17:58:49,876][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 17:58:50,301][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 17:58:54,295][WatchServerHandler:107] WatchServerHandler  join from 127.0.0.1:53762 nid:ce0eecc9
+[INFO ][20171211 17:58:55,431][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 17:58:55,531][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:58:55,535][WatchConnertorImpl:107] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0xce0eecc9, L:/127.0.0.1:8112 - R:/127.0.0.1:53762])
+[INFO ][20171211 17:58:55,535][SessionManagerImpl:157] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xce0eecc9, L:/127.0.0.1:8112 - R:/127.0.0.1:53762])
+[INFO ][20171211 17:58:55,536][SessionManagerImpl:172] create new session 3919753126 successful!
+[INFO ][20171211 17:58:55,541][WatchConnertorImpl:111] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0xce0eecc9, L:/127.0.0.1:8112 - R:/127.0.0.1:53762])
+[INFO ][20171211 17:59:51,371][WatchServerHandler:107] WatchServerHandler  join from 127.0.0.1:53769 nid:63a1ff28
+[INFO ][20171211 17:59:52,275][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 17:59:52,277][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 17:59:52,278][WatchConnertorImpl:107] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 17:59:52,278][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 17:59:52,278][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 17:59:52,278][WatchConnertorImpl:111] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 18:00:34,285][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:00:55,544][SessionManagerImpl:97] remove the session 3919753126 from sessions!
+[INFO ][20171211 18:00:55,545][WatchConnertorImpl:71] connector close sessionId -> 3919753126 success 
+[WARN ][20171211 18:00:55,545][WatchConnertorImpl:40] connector close channel sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0xce0eecc9, L:/127.0.0.1:8112 ! R:/127.0.0.1:53762])
+[INFO ][20171211 18:01:31,372][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:01:39,134][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:01:39,135][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:01:39,135][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 18:01:39,135][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:02:14,199][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:02:14,200][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:02:14,200][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 18:02:14,203][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:03:54,203][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:04:01,138][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:04:01,139][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:04:01,139][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x63a1ff28, L:/127.0.0.1:8112 - R:/127.0.0.1:53769])
+[INFO ][20171211 18:04:01,140][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:05:41,771][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@59fdef61: startup date [Mon Dec 11 18:05:41 CST 2017]; root of context hierarchy
+[INFO ][20171211 18:05:41,867][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 18:05:42,019][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 18:05:42,365][WatchServer:50] start watch server ...
+[INFO ][20171211 18:05:42,365][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@7640f42a--com.netty.demo.server.proxy.impl.MessageProxyImpl@225e2e0d--8112
+[INFO ][20171211 18:05:42,377][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 18:05:42,804][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 18:05:49,205][WatchServerHandler:107] WatchServerHandler  join from 127.0.0.1:53846 nid:05834ba5
+[INFO ][20171211 18:05:53,179][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:05:53,280][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:05:53,284][WatchConnertorImpl:107] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x05834ba5, L:/127.0.0.1:8112 - R:/127.0.0.1:53846])
+[INFO ][20171211 18:05:53,284][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x05834ba5, L:/127.0.0.1:8112 - R:/127.0.0.1:53846])
+[INFO ][20171211 18:05:53,285][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:05:53,289][WatchConnertorImpl:111] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0x05834ba5, L:/127.0.0.1:8112 - R:/127.0.0.1:53846])
+[INFO ][20171211 18:05:53,290][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:05:53,299][WatchServerHandler:97] ----------------------------------------------
+[WARN ][20171211 18:05:53,301][WatchServerHandler:132] WatchServerHandler (127.0.0.1:53846) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 18:06:07,150][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:06:07,150][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:06:07,150][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x05834ba5, L:/127.0.0.1:8112 - R:/127.0.0.1:53846])
+[INFO ][20171211 18:06:07,150][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:06:07,151][WatchServerHandler:97] ----------------------------------------------
+[WARN ][20171211 18:06:07,151][WatchServerHandler:132] WatchServerHandler (127.0.0.1:53846) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 18:06:09,263][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:06:09,264][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:06:09,264][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x05834ba5, L:/127.0.0.1:8112 - R:/127.0.0.1:53846])
+[INFO ][20171211 18:06:09,264][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:06:09,265][WatchServerHandler:97] ----------------------------------------------
+[WARN ][20171211 18:06:09,265][WatchServerHandler:132] WatchServerHandler (127.0.0.1:53846) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 18:07:54,532][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@19a60b9a: startup date [Mon Dec 11 18:07:54 CST 2017]; root of context hierarchy
+[INFO ][20171211 18:07:54,633][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 18:07:54,808][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 18:08:00,376][WatchServer:50] start watch server ...
+[INFO ][20171211 18:08:00,377][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@1ca7e7be--com.netty.demo.server.proxy.impl.MessageProxyImpl@535f79a4--8112
+[INFO ][20171211 18:08:00,396][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 18:08:00,824][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 18:08:04,309][WatchServerHandler:107] WatchServerHandler  join from 127.0.0.1:53896 nid:fcd260e3
+[INFO ][20171211 18:08:05,620][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:08:05,723][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:08:22,153][WatchConnertorImpl:107] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0xfcd260e3, L:/127.0.0.1:8112 - R:/127.0.0.1:53896])
+[INFO ][20171211 18:08:22,154][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0xfcd260e3, L:/127.0.0.1:8112 - R:/127.0.0.1:53896])
+[INFO ][20171211 18:08:22,156][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:08:22,172][WatchConnertorImpl:111] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0xfcd260e3, L:/127.0.0.1:8112 - R:/127.0.0.1:53896])
+[INFO ][20171211 18:08:22,173][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:08:24,985][WatchServerHandler:97] ----------------------------------------------
+[WARN ][20171211 18:08:27,386][WatchServerHandler:132] WatchServerHandler (127.0.0.1:53896) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 18:09:46,268][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:09:46,269][WatchServerHandler:81] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:10:02,052][WatchConnertorImpl:103] connector reconnect sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0xfcd260e3, L:/127.0.0.1:8112 - R:/127.0.0.1:53896])
+[INFO ][20171211 18:10:10,764][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:10:15,485][WatchServerHandler:97] ----------------------------------------------
+[WARN ][20171211 18:10:20,293][WatchServerHandler:132] WatchServerHandler (127.0.0.1:53896) -> Unexpected exception from downstream.java.lang.NullPointerException
+[INFO ][20171211 18:12:55,767][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7736b039: startup date [Mon Dec 11 18:12:55 CST 2017]; root of context hierarchy
+[INFO ][20171211 18:12:55,854][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 18:12:56,005][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 18:12:56,348][WatchServer:50] start watch server ...
+[INFO ][20171211 18:12:56,348][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@225e2e0d--com.netty.demo.server.proxy.impl.MessageProxyImpl@5521691b--8112
+[INFO ][20171211 18:12:56,359][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 18:12:56,791][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 18:13:02,273][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:53970 nid:52da6d6f
+[INFO ][20171211 18:13:03,545][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:13:03,641][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:13:03,645][WatchConnertorImpl:107] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x52da6d6f, L:/127.0.0.1:8112 - R:/127.0.0.1:53970])
+[INFO ][20171211 18:13:03,645][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x52da6d6f, L:/127.0.0.1:8112 - R:/127.0.0.1:53970])
+[INFO ][20171211 18:13:03,646][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:13:03,652][WatchConnertorImpl:111] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0x52da6d6f, L:/127.0.0.1:8112 - R:/127.0.0.1:53970])
+[INFO ][20171211 18:13:03,652][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:13:03,661][WatchConnertorImpl:119] ----------------------------------------------
+[INFO ][20171211 18:13:03,663][WatchConnertorImpl:120] 链接个数：1
+[INFO ][20171211 18:13:03,663][WatchConnertorImpl:122] key:3919753127
+[INFO ][20171211 18:13:09,684][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:53972 nid:778972fb
+[INFO ][20171211 18:13:11,763][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:13:11,764][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:13:11,765][WatchConnertorImpl:107] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x778972fb, L:/127.0.0.1:8112 - R:/127.0.0.1:53972])
+[INFO ][20171211 18:13:11,765][SessionManagerImpl:157] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x778972fb, L:/127.0.0.1:8112 - R:/127.0.0.1:53972])
+[INFO ][20171211 18:13:11,765][SessionManagerImpl:172] create new session 3919753126 successful!
+[INFO ][20171211 18:13:11,765][WatchConnertorImpl:111] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0x778972fb, L:/127.0.0.1:8112 - R:/127.0.0.1:53972])
+[INFO ][20171211 18:13:11,765][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:13:11,766][WatchConnertorImpl:119] ----------------------------------------------
+[INFO ][20171211 18:13:11,767][WatchConnertorImpl:120] 链接个数：2
+[INFO ][20171211 18:13:11,767][WatchConnertorImpl:122] key:3919753127
+[INFO ][20171211 18:13:11,767][WatchConnertorImpl:122] key:3919753126
+[INFO ][20171211 18:16:25,357][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@276bab54: startup date [Mon Dec 11 18:16:25 CST 2017]; root of context hierarchy
+[INFO ][20171211 18:16:25,450][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20171211 18:16:25,605][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20171211 18:16:25,963][WatchServer:50] start watch server ...
+[INFO ][20171211 18:16:25,963][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@7640f42a--com.netty.demo.server.proxy.impl.MessageProxyImpl@225e2e0d--8112
+[INFO ][20171211 18:16:25,975][WatchServer:84] start watch server at port[8112].
+[INFO ][20171211 18:16:26,418][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20171211 18:16:35,592][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54035 nid:700ad9a5
+[INFO ][20171211 18:16:37,354][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:37,456][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:37,459][WatchConnertorImpl:111] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x700ad9a5, L:/127.0.0.1:8112 - R:/127.0.0.1:54035])
+[INFO ][20171211 18:16:37,459][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x700ad9a5, L:/127.0.0.1:8112 - R:/127.0.0.1:54035])
+[INFO ][20171211 18:16:37,460][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:16:37,465][WatchConnertorImpl:115] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0x700ad9a5, L:/127.0.0.1:8112 - R:/127.0.0.1:54035])
+[INFO ][20171211 18:16:37,465][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:37,474][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:37,476][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:16:37,476][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:39,627][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54037 nid:8a117fbb
+[INFO ][20171211 18:16:41,284][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:41,284][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:41,285][WatchConnertorImpl:111] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:41,285][SessionManagerImpl:157] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:41,285][SessionManagerImpl:172] create new session 3919753126 successful!
+[INFO ][20171211 18:16:41,285][WatchConnertorImpl:115] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:41,286][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:41,287][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:41,287][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:41,287][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:41,287][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:43,699][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:43,700][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:43,700][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:43,700][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:43,701][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:43,701][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:43,702][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:43,702][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:47,507][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:47,508][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:47,508][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:47,510][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:47,511][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:47,511][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:47,511][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:47,511][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,258][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,259][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,259][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,259][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,260][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,260][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,260][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,260][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,359][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,360][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,360][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,361][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,361][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,361][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,362][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,362][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,458][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,459][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,459][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,459][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,460][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,460][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,460][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,460][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,560][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,561][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,561][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,562][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,562][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,563][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,563][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,563][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,659][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,660][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,660][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,660][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,661][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,661][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,661][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,661][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,759][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,760][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,760][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,760][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,761][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,761][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,761][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,761][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,861][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,862][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,862][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,862][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,863][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,863][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,863][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,863][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:50,960][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:50,961][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:50,961][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:50,961][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:50,962][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:50,962][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:50,962][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:50,963][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,062][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,063][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,063][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,063][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,064][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,064][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,064][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,064][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,161][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,162][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,162][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,162][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,163][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,163][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,163][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,164][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,261][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,262][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,262][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,262][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,263][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,263][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,263][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,263][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,363][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,364][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,364][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,364][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,364][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,364][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,364][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,365][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,462][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,463][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,463][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,463][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,464][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,464][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,464][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,464][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,564][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,565][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,565][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,565][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,566][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,566][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,566][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,566][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,663][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,664][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,664][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,664][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,665][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,665][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,665][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,665][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,763][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,764][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,764][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,764][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,765][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,765][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,765][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,765][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,864][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,865][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,865][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,865][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,866][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,866][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,866][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,866][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:51,964][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:51,965][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:51,965][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:51,965][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:51,966][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:51,966][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:51,966][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:51,966][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,066][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,067][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,067][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,067][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,068][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,068][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,068][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,068][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,165][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,166][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,166][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,166][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,167][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,167][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,167][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,167][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,267][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,268][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,268][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,268][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,269][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,269][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,269][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,269][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,366][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,367][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,367][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,367][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,368][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,368][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,368][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,369][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,467][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,468][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,468][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,468][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,469][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,469][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,469][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,470][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,569][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,570][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,570][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,570][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,571][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,571][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,571][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,571][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,668][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,669][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,669][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,669][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,670][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,670][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,670][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,671][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,769][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,770][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,770][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,770][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,771][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,771][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,771][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,771][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,868][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,869][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,869][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,870][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,870][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,871][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,871][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,871][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:52,969][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:52,970][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:52,970][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:52,970][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:52,971][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:52,971][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:52,971][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:52,971][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:53,071][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:53,071][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:53,071][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:53,071][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:53,072][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:53,072][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:53,072][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:53,072][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:53,170][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:53,171][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:53,171][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:53,171][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:53,172][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:53,172][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:53,172][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:53,172][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:53,271][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:53,272][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:53,272][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:53,272][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:53,273][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:53,273][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:53,273][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:53,273][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:53,370][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:53,371][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:53,371][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:53,371][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:53,372][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:53,372][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:53,372][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:53,372][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:54,658][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:54,659][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:54,659][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:54,659][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:54,660][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:54,660][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:54,660][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:54,660][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:54,758][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:54,759][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:54,759][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:54,759][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:54,760][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:54,760][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:54,760][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:54,760][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:54,860][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:54,861][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:54,861][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:54,861][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:54,862][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:54,862][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:54,862][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:54,862][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:54,960][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:54,961][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:54,961][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:54,961][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:54,962][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:54,962][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:54,962][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:54,962][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,062][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,063][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,063][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,063][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,064][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,064][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,064][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,064][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,161][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,162][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,162][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,162][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,162][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,163][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,163][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,163][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,261][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,262][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,262][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,263][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,264][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,264][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,264][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,264][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,362][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,363][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,363][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,363][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,364][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,364][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,364][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,364][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,463][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,464][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,464][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,464][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,465][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,465][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,465][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,465][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,565][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,566][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,566][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,566][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,566][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,567][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,567][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,567][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,664][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,664][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,665][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,665][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,665][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,666][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,666][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,666][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,766][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,767][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,767][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,767][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,768][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,768][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,768][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,768][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,865][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,866][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,866][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,866][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,866][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,867][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,867][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,867][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:55,966][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:55,967][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:55,967][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:55,967][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:55,968][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:55,968][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:55,968][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:55,968][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,068][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,069][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,069][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,069][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,069][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,069][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,069][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,069][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,168][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,169][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,169][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,169][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,170][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,170][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,170][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,170][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,270][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,271][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,271][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,271][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,272][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,272][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,272][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,272][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,369][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,370][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,370][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,370][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,370][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,371][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,371][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,371][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,470][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,471][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,471][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,471][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,471][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,472][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,472][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,472][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:16:56,571][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:16:56,572][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:16:56,572][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:16:56,572][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:16:56,573][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:16:56,573][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:16:56,573][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:16:56,573][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:17:53,350][SessionManagerImpl:97] remove the session 3919753127 from sessions!
+[INFO ][20171211 18:17:53,350][WatchConnertorImpl:73] connector close sessionId -> 3919753127 success 
+[INFO ][20171211 18:17:53,350][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:17:53,351][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:17:53,351][WatchConnertorImpl:156] key:3919753126
+[WARN ][20171211 18:17:53,351][WatchConnertorImpl:40] connector close channel sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x700ad9a5, L:/127.0.0.1:8112 ! R:/127.0.0.1:54035])
+[INFO ][20171211 18:17:53,351][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:17:53,351][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:17:53,351][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:18:11,006][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54047 nid:de921c83
+[INFO ][20171211 18:18:14,590][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:18:14,590][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:18:14,590][WatchConnertorImpl:111] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0xde921c83, L:/127.0.0.1:8112 - R:/127.0.0.1:54047])
+[INFO ][20171211 18:18:14,591][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0xde921c83, L:/127.0.0.1:8112 - R:/127.0.0.1:54047])
+[INFO ][20171211 18:18:14,591][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:18:14,591][WatchConnertorImpl:115] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0xde921c83, L:/127.0.0.1:8112 - R:/127.0.0.1:54047])
+[INFO ][20171211 18:18:14,591][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:18:14,592][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:18:14,592][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:18:14,592][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:18:14,592][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:18:36,576][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:18:39,966][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:18:39,967][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:18:39,967][WatchConnertorImpl:107] connector reconnect sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 - R:/127.0.0.1:54037])
+[INFO ][20171211 18:18:39,967][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:18:39,968][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:18:39,968][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:18:39,968][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:18:39,968][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:19:54,593][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:20:14,594][SessionManagerImpl:97] remove the session 3919753127 from sessions!
+[INFO ][20171211 18:20:14,594][WatchConnertorImpl:73] connector close sessionId -> 3919753127 success 
+[INFO ][20171211 18:20:14,594][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:156] key:3919753126
+[WARN ][20171211 18:20:14,595][WatchConnertorImpl:40] connector close channel sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0xde921c83, L:/127.0.0.1:8112 ! R:/127.0.0.1:54047])
+[INFO ][20171211 18:20:14,595][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:14,596][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:20:14,596][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:20:19,969][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:20:39,969][SessionManagerImpl:97] remove the session 3919753126 from sessions!
+[INFO ][20171211 18:20:39,969][WatchConnertorImpl:73] connector close sessionId -> 3919753126 success 
+[INFO ][20171211 18:20:39,969][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:39,970][WatchConnertorImpl:154] 链接个数：0
+[INFO ][20171211 18:20:39,970][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:39,970][WatchConnertorImpl:154] 链接个数：0
+[WARN ][20171211 18:20:39,970][WatchConnertorImpl:40] connector close channel sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x8a117fbb, L:/127.0.0.1:8112 ! R:/127.0.0.1:54037])
+[INFO ][20171211 18:20:39,970][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:20:39,970][WatchConnertorImpl:154] 链接个数：0
+[INFO ][20171211 18:37:26,164][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54248 nid:92f7cde8
+[INFO ][20171211 18:37:30,187][WatchServerHandler:98] WatchServerHandler  join from 127.0.0.1:54250 nid:598f3961
+[INFO ][20171211 18:37:32,036][WatchDecoder:48] message:[3G*3919753127*0009*LK,0,1255,99]
+[INFO ][20171211 18:37:32,036][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:37:32,036][WatchConnertorImpl:111] connector connect sessionId -> 3919753127, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x598f3961, L:/127.0.0.1:8112 - R:/127.0.0.1:54250])
+[INFO ][20171211 18:37:32,037][SessionManagerImpl:157] create new session 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x598f3961, L:/127.0.0.1:8112 - R:/127.0.0.1:54250])
+[INFO ][20171211 18:37:32,037][SessionManagerImpl:172] create new session 3919753127 successful!
+[INFO ][20171211 18:37:32,037][WatchConnertorImpl:115] create channel attr sessionId 3919753127 successful, ctx -> ChannelHandlerContext(handler, [id: 0x598f3961, L:/127.0.0.1:8112 - R:/127.0.0.1:54250])
+[INFO ][20171211 18:37:32,037][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:37:32,038][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:37:32,038][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:37:32,038][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:37:33,890][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20171211 18:37:33,891][WatchServerHandler:77] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20171211 18:37:33,891][WatchConnertorImpl:111] connector connect sessionId -> 3919753126, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x92f7cde8, L:/127.0.0.1:8112 - R:/127.0.0.1:54248])
+[INFO ][20171211 18:37:33,891][SessionManagerImpl:157] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x92f7cde8, L:/127.0.0.1:8112 - R:/127.0.0.1:54248])
+[INFO ][20171211 18:37:33,892][SessionManagerImpl:172] create new session 3919753126 successful!
+[INFO ][20171211 18:37:33,892][WatchConnertorImpl:115] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0x92f7cde8, L:/127.0.0.1:8112 - R:/127.0.0.1:54248])
+[INFO ][20171211 18:37:33,892][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20171211 18:37:33,893][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:37:33,893][WatchConnertorImpl:154] 链接个数：2
+[INFO ][20171211 18:37:33,893][WatchConnertorImpl:156] key:3919753127
+[INFO ][20171211 18:37:33,893][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:39:12,039][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753127"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:39:13,894][WatchEncode:41] message:factory: "3G"
+deviceId: "3919753126"
+length: "0002"
+type: "LK"
+
+[INFO ][20171211 18:39:32,040][SessionManagerImpl:97] remove the session 3919753127 from sessions!
+[INFO ][20171211 18:39:32,040][WatchConnertorImpl:73] connector close sessionId -> 3919753127 success 
+[INFO ][20171211 18:39:32,040][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:32,040][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:39:32,041][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:39:32,041][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:32,041][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:39:32,041][WatchConnertorImpl:156] key:3919753126
+[WARN ][20171211 18:39:32,041][WatchConnertorImpl:40] connector close channel sessionId -> 3919753127, ctx -> ChannelHandlerContext(handler, [id: 0x598f3961, L:/127.0.0.1:8112 ! R:/127.0.0.1:54250])
+[INFO ][20171211 18:39:32,041][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:32,042][WatchConnertorImpl:154] 链接个数：1
+[INFO ][20171211 18:39:32,042][WatchConnertorImpl:156] key:3919753126
+[INFO ][20171211 18:39:33,893][SessionManagerImpl:97] remove the session 3919753126 from sessions!
+[INFO ][20171211 18:39:33,894][WatchConnertorImpl:73] connector close sessionId -> 3919753126 success 
+[INFO ][20171211 18:39:33,894][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:33,894][WatchConnertorImpl:154] 链接个数：0
+[INFO ][20171211 18:39:33,894][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:33,894][WatchConnertorImpl:154] 链接个数：0
+[WARN ][20171211 18:39:33,894][WatchConnertorImpl:40] connector close channel sessionId -> 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x92f7cde8, L:/127.0.0.1:8112 ! R:/127.0.0.1:54248])
+[INFO ][20171211 18:39:33,895][WatchConnertorImpl:153] ----------------------------------------------
+[INFO ][20171211 18:39:33,895][WatchConnertorImpl:154] 链接个数：0

@@ -1,0 +1,749 @@
+[INFO ][20180410 14:09:04,830][AbstractApplicationContext:582] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6b959b32: startup date [Tue Apr 10 14:09:04 CST 2018]; root of context hierarchy
+[INFO ][20180410 14:09:04,938][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-config.xml]
+[INFO ][20180410 14:09:05,339][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [spring-im-config.xml]
+[INFO ][20180410 14:09:05,951][WatchServer:50] start watch server ...
+[INFO ][20180410 14:09:05,952][WatchServer:51] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@4e3ceb07--com.netty.demo.server.proxy.impl.MessageProxyImpl@16a40b2--8112
+[INFO ][20180410 14:09:05,973][WatchServer:84] start watch server at port[8112].
+[INFO ][20180410 14:09:06,250][WatchServer$2:92] Server have success bind to 8112
+[INFO ][20180410 14:09:06,330][WatchWebSocketServer:72] start watch websocket server ...
+[INFO ][20180410 14:09:06,330][WatchWebSocketServer:73] init :com.netty.demo.server.connertor.impl.WatchConnertorImpl@4e3ceb07--com.netty.demo.server.proxy.impl.MessageProxyImpl@16a40b2--8111
+[INFO ][20180410 14:09:06,357][WatchWebSocketServer:131] start watch websocketserver at port[8111].
+[INFO ][20180410 14:09:06,377][WatchWebSocketServer$2:137] websocketserver have success bind to 8111
+[INFO ][20180410 14:09:50,372][WatchServerHandler:92] WatchServerHandler  join from 127.0.0.1:52631 nid:1757253c
+[INFO ][20180410 14:09:51,699][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:51,814][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:51,855][WatchConnertorImpl:115] connector connect sessionId -> 123456, sessionId0 -> null, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:51,856][SessionManagerImpl:160] create new session 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:51,858][SessionManagerImpl:175] create new session 123456 successful!
+[INFO ][20180410 14:09:51,869][WatchConnertorImpl:119] create channel attr sessionId 123456 successful, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:51,870][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:51,879][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:51,880][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:51,880][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:56,232][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:56,233][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:56,233][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:56,233][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:56,234][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:56,234][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:56,234][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:58,927][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:58,928][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:58,928][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:58,928][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:58,929][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:58,929][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:58,929][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,029][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,030][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,030][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,032][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,033][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,033][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,033][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,128][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,129][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,129][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,129][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,130][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,130][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,130][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,228][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,229][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,229][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,230][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,230][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,231][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,231][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,330][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,331][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,331][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,331][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,332][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,332][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,332][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,429][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,430][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,430][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,431][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,432][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,432][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,432][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,531][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,532][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,532][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,532][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,533][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,533][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,533][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,630][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,631][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,631][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,631][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,632][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,632][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,632][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,730][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,731][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,731][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,731][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,732][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,732][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,732][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,832][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,833][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,833][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,833][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,834][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,834][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,834][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:09:59,931][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:09:59,932][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:09:59,932][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:09:59,932][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:09:59,933][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:09:59,933][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:09:59,933][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,033][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,034][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,034][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,034][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,035][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,035][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,035][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,132][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,133][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,133][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,133][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,134][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,134][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,134][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,232][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,233][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,233][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,233][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,234][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,234][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,234][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,334][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,335][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,335][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,335][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,336][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,336][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,336][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,433][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,434][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,434][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,434][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,435][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,435][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,435][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,535][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,536][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,536][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,536][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,537][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,537][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,537][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,634][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,635][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,635][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,635][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,636][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,636][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,636][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,734][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,735][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,735][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,735][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,736][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,736][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,736][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,836][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,836][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,836][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,836][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,837][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,837][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,837][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:00,935][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:00,936][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:00,936][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:00,936][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:00,937][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:00,937][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:00,937][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,037][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,038][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,038][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,038][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,039][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,039][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,039][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,136][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,137][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,137][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,137][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,138][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,138][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,138][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,237][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,238][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,238][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,238][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,239][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,239][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,239][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,336][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,337][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,337][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,337][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,338][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,338][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,338][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,436][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,437][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,437][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,437][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,438][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,438][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,438][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,537][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,538][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,538][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,538][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,539][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,539][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,539][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,636][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,637][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,637][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,637][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,638][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,638][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,638][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,738][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,739][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,739][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,739][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,740][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,740][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,740][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,838][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,839][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,839][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,839][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,840][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,840][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,840][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:01,938][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:01,939][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:01,939][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:01,939][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:01,940][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:01,940][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:01,940][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,040][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,041][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,041][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,041][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,042][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,042][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,042][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,140][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,141][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,141][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,141][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,142][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,142][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,142][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,242][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,243][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,243][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,243][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,244][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,244][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,244][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,341][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,342][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,342][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,342][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,343][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,343][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,343][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,442][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,443][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,443][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,443][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,444][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,444][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,444][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,544][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,544][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,544][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,544][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,545][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,545][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,545][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,643][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,644][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,644][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,644][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,645][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,645][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,645][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,744][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,745][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,745][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,745][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,746][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,746][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,746][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:10:02,843][WatchDecoder:48] message:[3G*123456*0009*LK,0,1255,99]
+[INFO ][20180410 14:10:02,844][WatchServerHandler:73] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:10:02,844][WatchConnertorImpl:111] connector reconnect sessionId -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:10:02,844][WatchEncode:42] message:factory: "3G"
+deviceId: "123456"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:10:02,845][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:10:02,845][WatchConnertorImpl:158] 链接个数：1
+[INFO ][20180410 14:10:02,845][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:11:16,037][WatchWebSocketServerHandler:91] WatchWebSocketServerHandler  join from 0:0:0:0:0:0:0:1:52670 nid:303c3cda
+[INFO ][20180410 14:11:16,038][WatchWebSocketServerHandler:102] WatchWebSocketServerHandler channelActive from (0:0:0:0:0:0:0:1:52670)
+[INFO ][20180410 14:11:26,478][WatchWebSocketServerHandler:72] message:factory: "3G"
+deviceId: "admin"
+length: "0009"
+type: "LK"
+sender: "admin"
+receiver: "3919753126"
+
+[INFO ][20180410 14:11:26,479][WatchConnertorImpl:115] connector connect sessionId -> admin, sessionId0 -> null, ctx -> ChannelHandlerContext(WatchWebSocketServerHandler#0, [id: 0x303c3cda, L:/0:0:0:0:0:0:0:1:8111 - R:/0:0:0:0:0:0:0:1:52670])
+[INFO ][20180410 14:11:26,479][SessionManagerImpl:160] create new session admin, ctx -> ChannelHandlerContext(WatchWebSocketServerHandler#0, [id: 0x303c3cda, L:/0:0:0:0:0:0:0:1:8111 - R:/0:0:0:0:0:0:0:1:52670])
+[INFO ][20180410 14:11:26,479][SessionManagerImpl:175] create new session admin successful!
+[INFO ][20180410 14:11:26,479][WatchConnertorImpl:119] create channel attr sessionId admin successful, ctx -> ChannelHandlerContext(WatchWebSocketServerHandler#0, [id: 0x303c3cda, L:/0:0:0:0:0:0:0:1:8111 - R:/0:0:0:0:0:0:0:1:52670])
+[INFO ][20180410 14:11:26,480][WatchWebSocketServer$1$2:112] MessageLite.Builder---------->factory: "3G"
+deviceId: "admin"
+length: "0009"
+type: "LK"
+sender: "admin"
+receiver: "3919753126"
+
+[INFO ][20180410 14:11:26,490][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:11:26,490][WatchConnertorImpl:158] 链接个数：2
+[INFO ][20180410 14:11:26,490][WatchConnertorImpl:160] key:admin
+[INFO ][20180410 14:11:26,490][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:11:31,426][WatchDecoder:48] message:[3G*3919753126*0009*LK,0,1255,99]
+[INFO ][20180410 14:11:31,427][WatchServerHandler:73] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+body: "0,1255,99"
+
+[INFO ][20180410 14:11:31,427][WatchConnertorImpl:115] connector connect sessionId -> 3919753126, sessionId0 -> 123456, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:11:31,427][SessionManagerImpl:160] create new session 3919753126, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:11:31,427][SessionManagerImpl:175] create new session 3919753126 successful!
+[INFO ][20180410 14:11:31,427][WatchConnertorImpl:119] create channel attr sessionId 3919753126 successful, ctx -> ChannelHandlerContext(handler, [id: 0x1757253c, L:/127.0.0.1:8112 - R:/127.0.0.1:52631])
+[INFO ][20180410 14:11:31,428][WatchEncode:42] message:factory: "3G"
+deviceId: "3919753126"
+length: "0009"
+type: "LK"
+
+[INFO ][20180410 14:11:31,428][WatchConnertorImpl:157] ----------------------------------------------
+[INFO ][20180410 14:11:31,429][WatchConnertorImpl:158] 链接个数：3
+[INFO ][20180410 14:11:31,429][WatchConnertorImpl:160] key:admin
+[INFO ][20180410 14:11:31,429][WatchConnertorImpl:160] key:123456
+[INFO ][20180410 14:11:31,429][WatchConnertorImpl:160] key:3919753126
+[INFO ][20180410 14:11:41,491][WatchWebSocketServerHandler:72] message:factory: "3G"
+deviceId: "admin"
+length: "0009"
+type: "TA"
+body: "AS"
+sender: "admin"
+receiver: "3919753126"
+
+[INFO ][20180410 14:11:41,503][WatchEncode:42] message:factory: "3G"
+deviceId: "admin"
+length: "0009"
+type: "TA"
+body: "AS"
+timeStamp: "2018-04-10 14:11:41"
+sender: "admin"
+receiver: "3919753126"
+
