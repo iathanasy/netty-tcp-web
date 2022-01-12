@@ -8,7 +8,7 @@
   <name>netty-tcp-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-  	<springversion>5.2.9.RELEASE</springversion>  
+  	<springversion>5.3.14</springversion>  
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
